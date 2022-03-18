@@ -7,9 +7,11 @@
 #### :train: Railroad
 
 - [DCC-turnout-decoder](https://github.com/killadog/DCC-turnout-decoder) - Railroad DCC turnout decoder
+- [S88-feedback-module](https://github.com/killadog/S88-feedback-module) - 16 channel S88 feedback module for DCC railroad
 
-#### :gear: Network tools
+#### :gear: Tools
 
+- [hatools](https://github.com/killadog/hatools) - Happy Admin Tools
 - [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check
 
 #### :floppy_disk: Backup tools
