@@ -1,20 +1,21 @@
-
-
-### Arduino projects
+#### :hammer_and_wrench: Arduino projects
 
 - [CO2meter](https://github.com/killadog/CO2meter)
 - [WaterCounter](https://github.com/killadog/WaterCounter)
-- [DCC-turnout-decoder](https://github.com/killadog/DCC-turnout-decoder)
-- [MODES-2.0](https://github.com/killadog/MODES-2.0)
+- [MODES-2.0](https://github.com/killadog/MODES-2.0) - Control Arduino with only one button
 
-### Network tools
+#### :train: Railroad
 
-- [Pingonator](https://github.com/killadog/Pingonator)
+- [DCC-turnout-decoder](https://github.com/killadog/DCC-turnout-decoder) - Railroad DCC turnout decoder
 
-### Backup tools
+#### :gear: Network tools
 
-- [vbox_backup](https://github.com/killadog/vbox_backup)
-- [xen_backup](https://github.com/killadog/xen_backup)
+- [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check
+
+#### :floppy_disk: Backup tools
+
+- [vbox_backup](https://github.com/killadog/vbox_backup) - VirtualBox VM backup
+- [xen_backup](https://github.com/killadog/xen_backup) - Xen backup to external HDD or SMB share
 
 <!--
 **killadog/killadog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
