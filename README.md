@@ -1,4 +1,20 @@
-### Hi there 👋
+
+
+### Arduino projects
+
+- [CO2meter](https://github.com/killadog/CO2meter)
+- [WaterCounter](https://github.com/killadog/WaterCounter)
+- [DCC-turnout-decoder](https://github.com/killadog/DCC-turnout-decoder)
+- [MODES-2.0](https://github.com/killadog/MODES-2.0)
+
+### Network tools
+
+- [Pingonator](https://github.com/killadog/Pingonator)
+
+### Backup tools
+
+- [vbox_backup](https://github.com/killadog/vbox_backup)
+- [xen_backup](https://github.com/killadog/xen_backup)
 
 <!--
 **killadog/killadog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
