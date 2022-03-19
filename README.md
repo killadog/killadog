@@ -12,7 +12,8 @@
 #### :gear: Tools
 
 - [hatools](https://github.com/killadog/hatools) - Happy Admin Tools
-- [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check
+- [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check. CLI version.
+- [PingonatorGUI](https://github.com/killadog/PingonatorGUI) - Parallel network check. GUI version.
 
 #### :floppy_disk: Backup tools
 
