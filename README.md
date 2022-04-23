@@ -11,9 +11,20 @@
 
 ### :gear: Tools
 
-- [hatools](https://github.com/killadog/hatools) - Happy Admin Tools
 - [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check. CLI version.
 - [PingonatorGUI](https://github.com/killadog/PingonatorGUI) - Parallel network check. GUI version.
+- [hatools](https://github.com/killadog/hatools) - Happy Admin Tools
+    <details>
+      <summary> show full list</summary>
+
+    - PowerShell:
+        - [pinger](https://github.com/killadog/hatools#pinger) - Easy ping with timestamp, log, email notifications, etc.
+        - [WOL](https://github.com/killadog/hatools#wol) - Wake-on-LAN
+        - [copy_folders_to_one](https://github.com/killadog/hatools#copy_folders_to_one) - Copy files from one directory (with other directories) to only one
+    - Other:
+        - [OUI macro for Notepad++](https://github.com/killadog/hatools#oui-macro-for-notepad) - Organizationally Unique Identifier (OUI) text file for hash table
+   
+   </details>
 
 ### :floppy_disk: Backup tools
 
