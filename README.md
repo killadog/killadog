@@ -11,6 +11,7 @@
 
 ### :gear: Tools
 
+- [wg_control](https://github.com/killadog/wg_control) - Bash script to easy create WireGuard peer with e-mail notification
 - [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check. CLI version.
 - [PingonatorGUI](https://github.com/killadog/PingonatorGUI) - Parallel network check. GUI version.
 - [hatools](https://github.com/killadog/hatools) - Happy Admin Tools
