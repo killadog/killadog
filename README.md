@@ -11,7 +11,7 @@
 
 ### :gear: Tools
 
-- [wg_control](https://github.com/killadog/wg_control) - Bash script to easy create WireGuard peer with e-mail notification
+- [wg_control](https://github.com/killadog/wg_control) - Bash script to easily create a [WireGuard](https://www.wireguard.com/) peer with an e-mail notification
 - [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check. CLI version.
 - [PingonatorGUI](https://github.com/killadog/PingonatorGUI) - Parallel network check. GUI version.
 - [hatools](https://github.com/killadog/hatools) - Happy Admin Tools
@@ -33,7 +33,7 @@
 - [xen_backup](https://github.com/killadog/xen_backup) - Xen backup to external HDD or SMB share
 - [TMG-backup](https://github.com/killadog/TMG-backup) - Microsoft Forefront Threat Management Gateway (TMG) backup
 
- #### :black_nib: Skins
+ ### :black_nib: Skins & Themes
 
  - [jat](https://github.com/killadog/jat) - Simple two mode theme for [Ventoy](https://www.ventoy.net/en/index.html)
 
