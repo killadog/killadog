@@ -1,7 +1,7 @@
-### :hammer_and_wrench: Arduino projects
+### :hammer_and_wrench: Arduino & ESP8266
 
-- [CO2meter](https://github.com/killadog/CO2meter)
-- [WaterCounter](https://github.com/killadog/WaterCounter)
+- [CO2meter](https://github.com/killadog/CO2meter) - (Arduino) Temperature, humidity, pressure, CO2
+- [WaterCounter](https://github.com/killadog/WaterCounter) - (ESP8266)
 - [MODES-2.0](https://github.com/killadog/MODES-2.0) - Control Arduino with only one button
 
 ### :steam_locomotive: Railway modelling. Digital Command Control (DCC)
