@@ -1,13 +1,9 @@
-### :hammer_and_wrench: Arduino & ESP8266
+### :floppy_disk: Backup tools
 
-- [CO2meter](https://github.com/killadog/CO2meter) - (Arduino) Temperature, humidity, pressure, CO2
-- [WaterCounter](https://github.com/killadog/WaterCounter) - (ESP8266)
-- [MODES-2.0](https://github.com/killadog/MODES-2.0) - Control Arduino with only one button
-
-### :steam_locomotive: Railway modelling. Digital Command Control (DCC)
-
-- [DCC-turnout-decoder](https://github.com/killadog/DCC-turnout-decoder) - Railroad DCC turnout decoder
-- [S88-feedback-module](https://github.com/killadog/S88-feedback-module) - 16 channel S88 feedback module for DCC railway modelling
+- [Hyper-v_Backup](https://github.com/killadog/Hyper-v_Backup) - Hyper-v backup (export) tool
+- [vbox_backup](https://github.com/killadog/vbox_backup) - VirtualBox VM backup
+- [xen_backup](https://github.com/killadog/xen_backup) - Xen backup to external HDD or SMB share
+- [TMG-backup](https://github.com/killadog/TMG-backup) - Microsoft Forefront Threat Management Gateway (TMG) backup
 
 ### :gear: Tools
 
@@ -22,12 +18,16 @@
     - Other:
         - [OUI macro for Notepad++](https://github.com/killadog/hatools#oui-macro-for-notepad) - Make yor own Organizationally Unique Identifier (OUI) text file for hash table
 
-### :floppy_disk: Backup tools
+### :hammer_and_wrench: Arduino & ESP8266
 
-- [Hyper-v_Backup](https://github.com/killadog/Hyper-v_Backup) - Hyper-v backup (export) tool
-- [vbox_backup](https://github.com/killadog/vbox_backup) - VirtualBox VM backup
-- [xen_backup](https://github.com/killadog/xen_backup) - Xen backup to external HDD or SMB share
-- [TMG-backup](https://github.com/killadog/TMG-backup) - Microsoft Forefront Threat Management Gateway (TMG) backup
+- [CO2meter](https://github.com/killadog/CO2meter) - (Arduino) Temperature, humidity, pressure, CO2
+- [WaterCounter](https://github.com/killadog/WaterCounter) - (ESP8266)
+- [MODES-2.0](https://github.com/killadog/MODES-2.0) - Control Arduino with only one button
+
+### :steam_locomotive: Railway modelling. Digital Command Control (DCC)
+
+- [DCC-turnout-decoder](https://github.com/killadog/DCC-turnout-decoder) - Railroad DCC turnout decoder
+- [S88-feedback-module](https://github.com/killadog/S88-feedback-module) - 16 channel S88 feedback module for DCC railway modelling
 
  ### :black_nib: Skins & Themes
 
