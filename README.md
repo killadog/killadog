@@ -1,16 +1,17 @@
 ### :floppy_disk: Backup tools
 
-- [Robocoper](https://github.com/killadog/Robocoper) - Windows backup CLI tool based on [Robocopy](https://en.wikipedia.org/wiki/Robocopy)
-- [Hyper-v_Backup](https://github.com/killadog/Hyper-v_Backup) - Hyper-v backup (export) tool
-- [vbox_backup](https://github.com/killadog/vbox_backup) - VirtualBox VM backup
-- [xen_backup](https://github.com/killadog/xen_backup) - Xen backup to external HDD or SMB share
-- [TMG-backup](https://github.com/killadog/TMG-backup) - Microsoft Forefront Threat Management Gateway (TMG) backup
+- [Robocoper](https://github.com/killadog/Robocoper) - Windows backup CLI tool based on [Robocopy](https://en.wikipedia.org/wiki/Robocopy) [PowerShell]
+- [Hyper-v_Backup](https://github.com/killadog/Hyper-v_Backup) - Hyper-v backup (export) tool [PowerShell]
+- [vbox_backup](https://github.com/killadog/vbox_backup) - VirtualBox VM backup [PowerShell]
+- [xen_backup](https://github.com/killadog/xen_backup) - Xen backup to external HDD or SMB share [bash]
+- [TMG-backup](https://github.com/killadog/TMG-backup) - Microsoft Forefront Threat Management Gateway (TMG) backup [PowerShell]
 
 ### :gear: Tools
 
+- [DispatcherTimer Demo](https://github.com/killadog/DispatcherTimerDemo) - DispatcherTimer demonstration in [PowerShell](https://en.wikipedia.org/wiki/PowerShell) with [WPF](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
 - [wg_control](https://github.com/killadog/wg_control) - Bash script to easily create a [WireGuard](https://www.wireguard.com/) peer with an e-mail notification
-- [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check. CLI version.
-- [PingonatorGUI](https://github.com/killadog/PingonatorGUI) - Parallel network check. GUI version.
+- [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check. CLI version [PowerShell]
+- [PingonatorGUI](https://github.com/killadog/PingonatorGUI) - Parallel network check. GUI version [PowerShell]
 - [hatools](https://github.com/killadog/hatools) - Happy Admin Tools
     - PowerShell:
         - [pinger](https://github.com/killadog/hatools#pinger) - Easy ping with timestamp, log, email notifications, etc.
