@@ -8,7 +8,7 @@
 
 ### :gear: Tools
 
-- [DispatcherTimer Demo](https://github.com/killadog/DispatcherTimerDemo) - DispatcherTimer demonstration in [PowerShell](https://en.wikipedia.org/wiki/PowerShell) with [WPF](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation)
+- [DispatcherTimer Demo](https://github.com/killadog/DispatcherTimerDemo) - DispatcherTimer demonstration in [PowerShell](https://en.wikipedia.org/wiki/PowerShell) with [WPF](https://en.wikipedia.org/wiki/Windows_Presentation_Foundation) without freeze of GUI
 - [wg_control](https://github.com/killadog/wg_control) - Bash script to easily create a [WireGuard](https://www.wireguard.com/) peer with an e-mail notification
 - [Pingonator](https://github.com/killadog/Pingonator) - Parallel network check. CLI version [PowerShell]
 - [PingonatorGUI](https://github.com/killadog/PingonatorGUI) - Parallel network check. GUI version [PowerShell]
